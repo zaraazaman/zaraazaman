@@ -1,42 +1,100 @@
-<h1 align="center">Hi!, I'm Zara</h1>
-<h3 align="center">A University student exploring AI, ML, and DL (p.s I am just getting started man 😬)</h3><br>
+<h1 align="center">Hi!, I'm Zara („• ֊ •„)੭</h1>
+⋆.𐙚 ̊  <br> 
+Hi! Glad you stopped by my GitHub<br>
+I'm Zara, a second year Artifical Intelligence student at Air University. I'm really enthusiastic about AI, Machine Learning, Deep Learning. <br>
+P.s, I'm just getting started 🙌
+<br>
+⋆.𐙚 ̊ 
+<br>
 
+# 🧑‍💻 About me 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaraazaman&label=Profile%20views&color=0e75b6&style=flat" alt="zaraazaman" /> </p>
+- 🌱 Currently Learning: Frameworks, Deep Learning, Neural Networks (RNNs, CNNs), Computer Vision, NLP, AI, ML… basically anything that sounds complicated but is secretly fun.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaraazaman" alt="zaraazaman" /></a> </p>
+- 👨‍💻 Projects & Experiments: All of my code mischief is available at my GitHub
+. Feel free to peek, copy, or judge.
+
+- 📫 Reach Out: zamanzara910@gmail.com
+ – I promise I don’t bite (unless it’s a debugging session).
+
+- 📄 Experience: Currently surviving… I mean thriving at my Summer Internship at a Government-Affiliated Organization. Learning lots, fixing bugs, and questioning life choices.
+
+- ⚡ Fun Fact: I have the ultimate, top-tier brainrot knowledge—ask me about niche AI models or TikTok humor, I might know both.
+
+- 😎 Other Interests: AI, coding, sarcastic humor, TikTok/Instagram memes, brainstorming chaotic ideas, and somehow still pretending to be productive.
 
 <br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaraazaman_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zara Zaman) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jhumkayy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zamanzara910@gmail.com) 
 
+# 💡 Tools & Frameworks:
+### **Languages I Know:**  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+### **Frontend & Visualization Libraries:**  
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
+![Gradio](https://img.shields.io/badge/Gradio-%234FCEFF.svg?style=for-the-badge&logo=Gradio&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  
+
+### **Deep Learning & CV Frameworks:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+**Other Tools:** YOLO, OpenCV, SFML (C++)  
+
+### **Design & Creative Tools:**  
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+
+### **Assembly & Low-Level Coding:**  
+- Coloring & Code Visualization in MASM/Irvine32  
+- x86 Assembly Programming  
+
+### **Projects & Networking Tools:**  
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)  
+ 
 <br>
 
+# 📊 GitHub Stats
 
-- 🌱 I’m currently learning **Frameworks, Deep Learning, Neural Networks (RNNs, CNNs), Computer Vision based models, Artificial Intelligence, Machine Learning, NLP**
+![](https://github-readme-stats.vercel.app/api?username=zaraazaman&hide_border=false&include_all_commits=false&count_private=false&bg_color=2B1B2F&text_color=F8F8F2&icon_color=FF79C6&title_color=8BE9FD)<br/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/zaraazaman](https://github.com/zaraazaman)
+![](https://nirzak-streak-stats.vercel.app/?user=zaraazaman&hide_border=false&theme=dark&bg_color=2B1B2F&text_color=F8F8F2&stroke=FF79C6)<br/>
 
-- 📫 How to reach me **zamanzara910@gmail.com**
-
-- 📄 Know about my experiences [Currently doing my Summer Internship at a Government-Affiliated Organization](Currently doing my Summer Internship at a Government-Affiliated Organization)
-
-- ⚡ Fun fact about me **I have the ultimate, top tier brainrot knowledge**
-
-<br>
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
-<br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zaraazaman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zaraazaman&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaraazaman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaraazaman&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=2B1B2F&text_color=F8F8F2&title_color=8BE9FD)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zaraazaman&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+# 🌐 Socials:
+Reach out here:
+<p align="center">
+  <a href="https://instagram.com/zaraazaman_">
+    <img src="https://img.shields.io/badge/-Instagram-CA3DD9?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000&rounded=true" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/ZaraZaman">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=000000&rounded=true" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/jhumkayy">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white&labelColor=434343&rounded=true" alt="X" />
+  </a>
+  <a href="mailto:zamanzara910@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&rounded=true" alt="Gmail" />
+  </a>
+</p>
+
+
