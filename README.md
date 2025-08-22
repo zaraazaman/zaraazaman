@@ -22,11 +22,14 @@ P.s, I'm just getting started 🙌
 - ⚡ Fun Fact: I have the ultimate, top-tier brainrot knowledge—ask me about niche AI models or TikTok humor, I might know both.
 
 - 😎 Other Interests: AI, coding, sarcastic humor, TikTok/Instagram memes, brainstorming chaotic ideas, and somehow still pretending to be productive.
+## Currently
+🌞 I'm doing a Summer Internship at a Government-Affiliated Organization <br>
+🛠️ Building beginner & intermediate projects <br>
+🤖 Exploring AI, Robotics, and the math & physics behind them 🧠📐”
 
 <br>
 
-
-# 💡 Tools & Frameworks:
+# 💡 Tools & Frameworks
 ### **Languages I Know:**  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -80,7 +83,7 @@ P.s, I'm just getting started 🙌
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-# 🌐 Socials:
+# 🌐 Socials
 Reach out here:
 <p align="center">
   <a href="https://instagram.com/zaraazaman_">
