@@ -19,13 +19,13 @@ P.s, I'm just getting started 🙌
 
 - 📄 Experience: Currently surviving… I mean thriving at my Summer Internship at a Government-Affiliated Organization. Learning lots, fixing bugs, and questioning life choices.
 
-- ⚡ Fun Fact: I have the ultimate, top-tier brainrot knowledge—ask me about niche AI models or TikTok humor, I might know both.
+- ⚡ Fun Fact: I have the ultimate, top-tier brainrot internet knowledge.
 
 - 😎 Other Interests: AI, coding, sarcastic humor, TikTok/Instagram memes, brainstorming chaotic ideas, and somehow still pretending to be productive.
 ## Currently
 🌞 I'm doing a Summer Internship at a Government-Affiliated Organization <br>
 🛠️ Building beginner & intermediate projects <br>
-🤖 Exploring AI, Robotics, and the math & physics behind them 🧠📐”
+🤖 Exploring AI, Robotics, and the math & physics behind them 🧠📐
 
 <br>
 
