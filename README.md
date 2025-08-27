@@ -15,26 +15,28 @@ P.s, I'm just getting started 🙌
 . Feel free to peek, copy, or judge.
 
 - 📫 Reach Out: zamanzara910@gmail.com
- – I promise I don’t bite (unless it’s a debugging session).
 
-- 📄 Experience: Currently surviving… I mean thriving at my Summer Internship at a Government-Affiliated Organization. Learning lots, fixing bugs, and questioning life choices.
+- 📄 Experience: Currently doing my Summer Internship at a Government-Affiliated Organization. Learning lots, fixing bugs, and questioning life choices.
 
 - ⚡ Fun Fact: I have the ultimate, top-tier brainrot internet knowledge.
 
 - 😎 Other Interests: AI, coding, sarcastic humor, TikTok/Instagram memes, brainstorming chaotic ideas, and somehow still pretending to be productive.
+<br>
 ## Currently
 🌞 I'm doing a Summer Internship at a Government-Affiliated Organization <br>
 🛠️ Building beginner & intermediate projects <br>
 🤖 Exploring AI, Robotics, and the math & physics behind them 🧠📐
-
 <br>
-
 # 💡 Tools & Frameworks
 ### **Languages I Know:**  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+### **Assembly & Low-Level Coding:**  
+- Coloring & Code Visualization in MASM/Irvine32  
+- x86 Assembly Programming 
 
 ### **Frontend & Visualization Libraries:**  
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
@@ -58,11 +60,7 @@ P.s, I'm just getting started 🙌
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-
-### **Assembly & Low-Level Coding:**  
-- Coloring & Code Visualization in MASM/Irvine32  
-- x86 Assembly Programming  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)   
 
 ### **Projects & Networking Tools:**  
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)  
