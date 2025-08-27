@@ -21,12 +21,14 @@ P.s, I'm just getting started 🙌
 - ⚡ Fun Fact: I have the ultimate, top-tier brainrot internet knowledge.
 
 - 😎 Other Interests: AI, coding, sarcastic humor, TikTok/Instagram memes, brainstorming chaotic ideas, and somehow still pretending to be productive.
-<br>
-## Currently
+
+## **Currently**
 🌞 I'm doing a Summer Internship at a Government-Affiliated Organization <br>
 🛠️ Building beginner & intermediate projects <br>
 🤖 Exploring AI, Robotics, and the math & physics behind them 🧠📐
+
 <br>
+
 # 💡 Tools & Frameworks
 ### **Languages I Know:**  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
