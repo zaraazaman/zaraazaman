@@ -15,14 +15,13 @@ I'm Zara, a second year Artifical Intelligence student at Air University. I'm re
 
 - 📫 Reach Out: zamanzara910@gmail.com
 
-- 📄 Experience: Currently doing my Summer Internship at a Government-Affiliated Organization. Learning lots, fixing bugs, and questioning life choices.
+- 📄 Experience: Done with my Summer Internship at a Government-Affiliated Organization.
 
 - ⚡ Fun Fact: I have the ultimate, top-tier brainrot internet knowledge.
 
 - 😎 Other Interests: AI, coding, sarcastic humor, TikTok/Instagram memes, brainstorming chaotic ideas, and somehow still pretending to be productive.
 
 ## **Currently**
-🌞 I'm doing a Summer Internship at a Government-Affiliated Organization <br>
 🛠️ Building beginner & intermediate projects <br>
 🤖 Exploring AI, Robotics, and the math & physics behind them 🧠📐
 
