@@ -1,13 +1,12 @@
-<h1 align="center">Hi!, I'm Zara („• ֊ •„)੭</h1>
-⋆.𐙚 ̊  <br> 
+<h1 align="center">Hi! I'm Zara ⋆.𐙚 ̊ </h1>
+ <br> 
 Hi! Glad you stopped by my GitHub<br>
 I'm Zara, a second year Artifical Intelligence student at Air University. I'm really enthusiastic about AI, Machine Learning, Deep Learning. <br>
-P.s, I'm just getting started 🙌
-<br>
-⋆.𐙚 ̊ 
 <br>
 
-# 🧑‍💻 About me 
+<br>
+
+#  About me 
 
 - 🌱 Currently Learning: Frameworks, Deep Learning, Neural Networks (RNNs, CNNs), Computer Vision, NLP, AI, ML… basically anything that sounds complicated but is secretly fun.
 
@@ -29,7 +28,7 @@ P.s, I'm just getting started 🙌
 
 <br>
 
-# 💡 Tools & Frameworks
+#  Tools & Frameworks
 ### **Languages I Know:**  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -69,7 +68,7 @@ P.s, I'm just getting started 🙌
  
 <br>
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=zaraazaman&hide_border=false&include_all_commits=false&count_private=false&bg_color=2B1B2F&text_color=F8F8F2&icon_color=FF79C6&title_color=8BE9FD)<br/>
 
@@ -83,7 +82,7 @@ P.s, I'm just getting started 🙌
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-# 🌐 Socials
+#  Socials
 Reach out here:
 <p align="center">
   <a href="https://instagram.com/zaraazaman_">
