@@ -8,22 +8,18 @@ I'm Zara, a second year Artifical Intelligence student at Air University. I'm re
 
 #  About me 
 
-- 🌱 Currently Learning: Frameworks, Deep Learning, Neural Networks (RNNs, CNNs), Computer Vision, NLP, AI, ML… basically anything that sounds complicated but is secretly fun.
+- 🌱 Currently Learning: Frameworks, Deep Learning, Neural Networks (RNNs, CNNs), Computer Vision, NLP, AI, ML
 
 - 👨‍💻 Projects & Experiments: All of my code mischief is available at my GitHub
-. Feel free to peek, copy, or judge.
 
 - 📫 Reach Out: zamanzara910@gmail.com
 
-- 📄 Experience: Done with my Summer Internship at a Government-Affiliated Organization.
+- 📄 Experience: Completed my Summer Internship at a Government-Affiliated Organization.
 
-- ⚡ Fun Fact: I have the ultimate, top-tier brainrot internet knowledge.
-
-- 😎 Other Interests: AI, coding, sarcastic humor, TikTok/Instagram memes, brainstorming chaotic ideas, and somehow still pretending to be productive.
 
 ## **Currently**
-🛠️ Building beginner & intermediate projects <br>
-🤖 Exploring AI, Robotics, and the math & physics behind them 🧠📐
+working on semester projects <br>
+Exploring AI, Astrophysics, and the math & physics behind them 🧠📐
 
 <br>
 
