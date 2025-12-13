@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Zara ⋆.𐙚 ̊ </h1>
+<h1 align="center">Hi! I'm Zara </h1>
  <br> 
 Hi! Glad you stopped by my GitHub<br>
 I'm Zara, a second year Artifical Intelligence student at Air University. I'm really enthusiastic about AI, Machine Learning, Deep Learning. <br>
