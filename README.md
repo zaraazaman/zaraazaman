@@ -1,16 +1,14 @@
 <h1 align="center">Hi! I'm Zara </h1>
  <br> 
-Hi! Glad you stopped by my GitHub<br>
-I'm Zara, a second year Artifical Intelligence student at Air University. I'm really enthusiastic about AI, Machine Learning, Deep Learning. <br>
+Hi! I'm Zara, an undergrad Artifical Intelligence student.<br>
 <br>
 
-<br>
 
 #  About me 
 
-- 🌱 Currently Learning: Frameworks, Deep Learning, Neural Networks (RNNs, CNNs), Computer Vision, NLP, AI, ML
+- 🌱 Currently Learning: Frameworks, Neural Networks (RNNs, CNNs), Computer Vision, NLP, AI, ML, DL
 
-- 👨‍💻 Projects & Experiments: All of my code mischief is available at my GitHub
+- 👨‍💻 Projects & Experiments: All of my projects are available at my GitHub
 
 - 📫 Reach Out: zamanzara910@gmail.com
 
@@ -18,8 +16,8 @@ I'm Zara, a second year Artifical Intelligence student at Air University. I'm re
 
 
 ## **Currently**
-working on semester projects <br>
-Exploring AI, Astrophysics, and the math & physics behind them 🧠📐
+Working on my Final Year Project <br>
+Exploring AI, Astrophysics, and the math & physics behind them
 
 <br>
 
