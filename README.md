@@ -1,6 +1,6 @@
-<h1 align="center">Hi! I'm Zara </h1>
+<h1 align="center">Hi! </h1>
  <br> 
-Hi! I'm Zara, an undergrad Artifical Intelligence student.<br>
+I'm Zara, an undergrad Artifical Intelligence student.<br>
 <br>
 
 
