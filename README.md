@@ -46,16 +46,6 @@ Interested in the intersection of ML/CV, NLP, and building intelligent systems t
 
 ---
 
-## GitHub Stats
-
-[![Zara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaraazaman&hide_border=false&include_all_commits=false&count_private=false&bg_color=2B1B2F&text_color=F8F8F2&icon_color=FF79C6&title_color=8BE9FD)](https://github.com/zaraazaman)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaraazaman&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=2B1B2F&text_color=F8F8F2&title_color=8BE9FD)](https://github.com/zaraazaman)
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=zaraazaman&hide_border=false&theme=dark&bg_color=2B1B2F&text_color=F8F8F2&stroke=FF79C6)](https://github.com/zaraazaman)
-
----
-
 ##  Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=000000&rounded=true)](https://linkedin.com/in/ZaraZaman)
